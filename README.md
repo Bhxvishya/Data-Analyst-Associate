@@ -26,5 +26,5 @@ The dataset contains 1500 records and 8 variables. More on the variables can be 
 
 
 The review process took 1 week from the submission date. Here's my certification :)
-![Author's DataCamp Data Analyst Associate Certification]() 
+![Author's DataCamp Data Analyst Associate Certification](https://github.com/Bhxvishya/Data-Analyst-Associate/blob/master/certificate.jpg) 
 
